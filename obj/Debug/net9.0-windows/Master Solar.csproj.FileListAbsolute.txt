@@ -1,0 +1,54 @@
+C:\Master Solar\bin\Debug\net9.0-windows\Master Solar.exe
+C:\Master Solar\bin\Debug\net9.0-windows\Master Solar.deps.json
+C:\Master Solar\bin\Debug\net9.0-windows\Master Solar.runtimeconfig.json
+C:\Master Solar\bin\Debug\net9.0-windows\Master Solar.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Master Solar.pdb
+C:\Master Solar\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Master Solar\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Master Solar\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Master Solar\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Master Solar\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Master Solar\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Master Solar\bin\Debug\net9.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Master Solar\bin\Debug\net9.0-windows\MySqlConnector.dll
+C:\Master Solar\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Master Solar\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Master Solar\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Master Solar\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Master Solar\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Master Solar\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.csproj.AssemblyReference.cache
+C:\Master Solar\obj\Debug\net9.0-windows\Master_Solar.Form1.resources
+C:\Master Solar\obj\Debug\net9.0-windows\Master_Solar.New_Customer.resources
+C:\Master Solar\obj\Debug\net9.0-windows\Master_Solar.Properties.Bill.resources
+C:\Master Solar\obj\Debug\net9.0-windows\Master_Solar.Properties.Customer.resources
+C:\Master Solar\obj\Debug\net9.0-windows\Master_Solar.Properties.History.resources
+C:\Master Solar\obj\Debug\net9.0-windows\Master_Solar.Properties.Resources.resources
+C:\Master Solar\obj\Debug\net9.0-windows\Master_Solar.Stock.resources
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.csproj.GenerateResource.cache
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.AssemblyInfoInputs.cache
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.AssemblyInfo.cs
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.csproj.CoreCompileInputs.cache
+C:\Master Solar\obj\Debug\net9.0-windows\Master S.BAF94A8F.Up2Date
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.dll
+C:\Master Solar\obj\Debug\net9.0-windows\refint\Master Solar.dll
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.pdb
+C:\Master Solar\obj\Debug\net9.0-windows\Master Solar.genruntimeconfig.cache
+C:\Master Solar\obj\Debug\net9.0-windows\ref\Master Solar.dll
